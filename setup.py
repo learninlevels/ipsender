@@ -33,7 +33,7 @@ def getip(bot , update , args ):
         bot.sendMessage(update.message.chat.id , ip.text)
         os.system("echo %s >> log" % (str(datetime.datetime.now())+" : " +ip.text+" was sent to @"+update.message.chat.username ) )
     else :
-        bot.sendMessage(update.message.chat.id , "permission denide !")
+        bot.sendMessage(update.message.chat.id , "permission denied !")
 get_command = CommandHandler("getip" , getip , pass_args=True ) 
 update.dispatcher.add_handler(get_command)
 update.start_polling()
