@@ -22,9 +22,10 @@ step 3 :
     enter the token, password and http proxy
 ![img1](https://imgurl.ir/uploads/b70072_.jpg)
  
- now use it >> 
+ now use it >>
+ send " /getip password " to your telegram bot
  
- ![img2](https://imgurl.ir/uploads/v497759_.jpg)
+ ![img2](https://imgurl.ir/uploads/v632727_.jpg)
  
  log file >>
  
