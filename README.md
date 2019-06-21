@@ -2,13 +2,18 @@
 get publoc ip with telegram bot when you have no ip static on linux server
 
 step 1 :
+  
   >$ git clone https://github.com/learninlevels/ipsender.git
+  
   >$ cd ipsender
+  
   install the libraries for python3 
+  
   >$ pip3 install -r requirement
 
 
 step 2 : 
+   
    >$ python3 setup.py
    
    >$ chmod +x setup,py 
