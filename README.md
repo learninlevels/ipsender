@@ -2,18 +2,24 @@
 get publoc ip with telegram bot when you have no ip static on linux server
 
 step 1 : 
-  #install the libraries for python3 
+  > install the libraries for python3 
   $pip3 install -r requirement
 
 
 step 2 : 
-  #run 
-  $ python3 setup.py
-  # or 
-  $ chmod +x setup,py 
-``$ ./setup.py
+   > run 
+   $ python3 setup.py
+   
+   $ chmod +x setup,py 
 
 step 3 :
-
-![img](https://imgurl.ir/uploads/b70072_.jpg)
-  
+    enter the token, password and http proxy
+![img1](https://imgurl.ir/uploads/b70072_.jpg)
+ 
+ now use it >> 
+ 
+ ![img2](https://imgurl.ir/uploads/v497759_.jpg)
+ 
+ log file >>
+ 
+ ![img3](https://imgurl.ir/uploads/c431675_.jpg)
