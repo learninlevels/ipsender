@@ -37,5 +37,5 @@ def getip(bot , update , args ):
 get_command = CommandHandler("getip" , getip , pass_args=True ) 
 update.dispatcher.add_handler(get_command)
 update.start_polling()
-print("\n connectd")
+print("\n connected")
 os.system("echo %s >> log" % (str(datetime.datetime.now())+" : connected to telegram bot " ) )
