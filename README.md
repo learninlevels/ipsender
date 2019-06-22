@@ -19,6 +19,7 @@ step 2 :
    or
    
    >$ chmod +x setup.py 
+   
    >$ ./setup.py
    
 step 3 :
